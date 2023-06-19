@@ -1,20 +1,20 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
+title: Anish Devineni
+description: Welcome to my wesbite!
+taglong: Welcome to my wesbite!
 tagshort: Jekyll theme
-url: https://cvless.netlify.app
+url: https://anishd.com
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/anishcd/anishcd.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/profile.jpg
+  name: Anish Devineni
+  email: anishcdevineni@gmail.com
+photo: /assets/profile_main.jpg
 
 # build settings
 

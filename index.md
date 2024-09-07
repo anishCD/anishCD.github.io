@@ -5,14 +5,16 @@ title: Home
 
 # Let me introduce myself.
 
-I’m an engineer &amp; researcher actively seeking opportunites for software engineering/data science roles in the fields of machine learning, software engineering, and financial technology, among others!
+I’m an engineer &amp; researcher actively seeking opportunites for software engineering roles in the fields of machine learning, software engineering, and financial technology, among others!
 
 
-I'm currently pursuing a B.S. in Mathematics and Computer Science from the University of California, San Diego with an expected graduation of June 2025.
+I'm currently pursuing a B.S. in Mathematics and Computer Science from the University of California, San Diego with an expected graduation of December 2024.
 
-Click <a href="/cv.pdf">here</a> to view a print version of my CV.
+Feel free to explore my [projects](#projects) to see some of my recent work, or take a look at my [CV](/cv.pdf) for a more detailed overview of my experience and skills.
 
-Please reach out if you have questions, or want to connect!
+I'm always open to new opportunities, collaborations, and interesting conversations. Whether you're interested in my work, have a project in mind, or just want to chat, I'd love to hear from you.
+
+Thank you for visiting, and I look forward to connecting with you!
 
 {% include contact.html %}
 {% include archive.html %}
